@@ -33,5 +33,5 @@ const car2 = {
     finalPrice: 80000
 };
 
-console.log((globalBasePrice + car1.finalPrice), (globalBasePrice + car2.finalPrice))// nos da 85 000 y 105 000 
+console.log((globalBasePrice + car1.basePrice), (globalBasePrice + car2.basePrice))// nos da 75 000 y 95 000 
 
